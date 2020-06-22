@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/aboutus"
+    tools:context=".AboutUsActivity">
+
+
+    <TextView
+        android:layout_marginLeft="20dp"
+        android:layout_gravity="left"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="开发人员名单："
+        android:textColor="#914c22"
+        android:textSize="32sp"></TextView>
+    <TextView
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="李    锐"
+        android:textColor="#000"
+        android:textSize="28sp"></TextView>
+    <TextView
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="张岩珂"
+        android:textColor="#000"
+        android:textSize="28sp"></TextView>
+    <TextView
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="吴    楚"
+        android:textColor="#000"
+        android:textSize="28sp"></TextView>
+    <TextView
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="敖光成"
+        android:textColor="#000"
+        android:textSize="28sp"></TextView>
+
+
+</LinearLayout>
